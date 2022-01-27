@@ -1,6 +1,6 @@
 {
   "name": "lz-assets",
-  "version": "1.0.2",
+  "version": "0.0.0",
   "description": "Lzz的静态资源仓库",
   "main": "index.js",
   "scripts": {
